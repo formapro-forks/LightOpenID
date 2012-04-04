@@ -1,0 +1,19 @@
+{
+    "name": "fp/lightopenid",
+    "type": "library",
+    "description": "A PHP 5 library for easy openid authentication",
+    "keywords": ["Security", "OpenId", "Authentication"],
+    "homepage": "https://github.com/formapro/LightOpenID",
+    "authors": [
+        {
+            "name": "Mewp",
+            "email": "mewp151+gitorious.org@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.2"
+    },
+    "autoload": {
+            "classmap": ["openid.php", "provider/provider.php"]
+    }
+}
