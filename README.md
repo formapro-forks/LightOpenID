@@ -1,3 +1,5 @@
+**[DEPRECATED] Official library was added to packagist: lightopenid\lightopenid. Use it!**
+
 This is mirror of official https://gitorious.org/lightopenid/lightopenid repo with added composer support.
 I use it with FpOpenIdBundle to easy setup it.
 
